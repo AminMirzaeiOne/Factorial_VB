@@ -25,6 +25,12 @@ Module Module1
             Console.WriteLine($"The factorial of {n} is: {factorial}")
         End If
 
+        ' Programmer Inforamtion and GitHub Username
+        System.Console.ForegroundColor = ConsoleColor.Magenta
+        System.Console.WriteLine("-----------------------")
+        System.Console.ForegroundColor = ConsoleColor.Red
+        System.Console.WriteLine("Programmer : Amin Mirzaei - Github(UserName) : AminMirzaeiOne")
+
         ' Pause the console to keep it open.
         Console.ReadKey()
     End Sub
