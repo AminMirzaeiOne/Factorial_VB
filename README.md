@@ -22,4 +22,5 @@ Factorial calculates a number and then displays the result on the console screen
 4 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="674" alt="Capture16" src="https://github.com/user-attachments/assets/60d526fb-2d8b-4a82-862c-b84dee0882f5">
+<img width="674" alt="Capture19" src="https://github.com/user-attachments/assets/7ea7029a-1d10-4367-afc5-9d82614b9456">
+<img width="675" alt="Capture20" src="https://github.com/user-attachments/assets/45b7c320-3cc5-4542-8fcb-759c361737ab">
