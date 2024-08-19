@@ -7,7 +7,7 @@ Module Module1
         Dim factorial As Long = 1
 
         ' Prompt the user to enter a non-negative integer.
-        Console.WriteLine("Please enter a non-negative integer:")
+        Console.Write("Please enter a non-negative integer : ")
 
         ' Read the user's input and convert it to an integer.
         n = Convert.ToInt32(Console.ReadLine())
